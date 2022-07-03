@@ -1,4 +1,5 @@
 # CRIME
+https://www.kaggle.com/datasets/currie32/crimes-in-chicago?resource=download
 Accuracy Score:
 Logistic: 0.7448591012947449
 Random Forest: 0.8347296268088348
